@@ -8,7 +8,7 @@ This repository contains an enhanced classification framework utilizing Electrom
 
 The project is structured as follows:
 
-- `data/`: Contains sample EMG signal datasets used for training and testing.
+- `EMGPhysicalActionDataSet`: Contains sample EMG signal datasets used for training and testing.
     - `readme.txt`: Additional documentation, including research papers, references, and guides.
 - `main.ipynb`: Holds the source code for the classification framework.
     - `Preprocessing (Task 1 -4)`: Code for data preprocessing and feature extraction from EMG signals.
